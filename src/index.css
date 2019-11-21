@@ -19,6 +19,15 @@ body {
   padding: 2rem;
   font-size: 3rem;
 }
+.movie-title {
+  font-size: 2rem;
+  margin: 1rem 0 0 0;
+}
+.release-date {
+  font: 16px / 1 sans-serif;
+  /* font-size: rem; */
+  margin: 0.1rem 0 0.5rem 0;
+}
 
 h1 {
   width: 100%;
