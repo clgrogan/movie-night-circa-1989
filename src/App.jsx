@@ -35,7 +35,7 @@ const App = () => {
 
   return (
     <>
-      {console.log('test', movies.sort(compare))} */}
+      {console.log('test', movies.sort(compare))}
       <heading>
         <h1 className="page-title">At the Movie's Circa 1989</h1>
       </heading>
